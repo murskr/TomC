@@ -1,4 +1,8 @@
 hi
 this is my first note
+<<<<<<< HEAD
 
 hi new file added
+=======
+this is secont file 
+>>>>>>> 7ee21316e484090276d09efd0c3cbbeb6f834130
